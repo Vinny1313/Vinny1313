@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusgomesdev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vinnygomes0808@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Google-Embaixador%20Estudantil-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Embaixador Estudantil do Google"/>
 </p>
 
 ---
@@ -96,11 +95,17 @@ Minha base técnica é **React, Node.js e PostgreSQL**, mas vou além do código
   </tr>
 </table>
 
-## 📊 Estatísticas
+## 🛠️ Ferramentas e tecnologias
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinny1313&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny1313&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GLPI-2D6DB5?style=for-the-badge"/>
 </p>
 
 <p align="center">
