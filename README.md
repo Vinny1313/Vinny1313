@@ -70,27 +70,27 @@ Minha base técnica é **React, Node.js e PostgreSQL**, mas vou além do código
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Vinny1313/pontobot">pontobot</a></h3>
-      Bot de Discord em Python que registra a jornada de trabalho da equipe com Slash Commands (entrada e saída).<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      Bot de Discord em Python que registra a jornada de trabalho da equipe com Slash Commands (entrada, saída, status e histórico) e salva tudo em uma planilha do Google Sheets.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Vinny1313/orei">orei</a></h3>
-      Ficha digital de RPG: crie, gerencie e role os dados das suas fichas de personagem (React 19 + Supabase).<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      Ficha digital de RPG: crie personagens, role dados e jogue em campanhas com a sua mesa, com login por e-mail ou Google.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/><br/><a href="https://orei-one.vercel.app">🔗 Ver online</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Vinny1313/checkpoint">checkpoint</a></h3>
-      Projeto em TypeScript.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      Sistema web de ponto eletrônico com confirmação de presença por geolocalização, comprovante em PDF e cálculo de jornada pela CLT. <i>Em desenvolvimento.</i><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/><br/><a href="https://checkpoint-omega-two.vercel.app">🔗 Ver online</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Vinny1313/starter-kit">starter-kit</a></h3>
-      Catálogo de boilerplates e starter kits para acelerar o setup de novos projetos.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      Catálogo de boilerplates para acelerar o setup de novos projetos. Primeiro kit: Next.js + NestJS + PostgreSQL + Prisma com Docker.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
 </table>
